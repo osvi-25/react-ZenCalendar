@@ -14,7 +14,7 @@ Check out the live version of this project [here](https://react-calendar-app-hen
 - Built with **React Hooks**
 
 ## 📸 Preview
-![Weather App Preview](./src/assets/Preview.gif)
+![ZenCalendar Preview](./src/assets/preview.png)
 
 ## 🛠️ Technologies Used
 - **React.js**  
