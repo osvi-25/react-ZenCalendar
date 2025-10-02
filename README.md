@@ -1,6 +1,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-# React Calendar App
+# React ZenCalendar
 
 A Calendar App built with **React**.  
 It is a clean and minimal calendar app that displays the current date and day.
