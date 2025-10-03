@@ -27,7 +27,7 @@ Check out the live version of this project [here](https://react-calendar-app-hen
 
 ## 📦 Installation
 ```bash
-git clone https://react-calendar-app-henna.vercel.app/
+git clone https://github.com/osvi-25/react-ZenCalendar.git
 cd react-ZenCalendar
 npm install
 npm start
